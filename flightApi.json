@@ -1,5 +1,5 @@
 {
-    "Flight": [{
+    "airlines": [{
         "id": 1,
         "name": "Lufthansa",
         "code": "LUF",
