@@ -12,7 +12,8 @@
         "destinations": [{"name": "Berlin", "code": "BER"}, {"name": "Lagos", "code": "LAG"}, {"name": "Munich", "code": "MUN"}, {"name": "London", "code": "LON"}, 
         {"name": "Frankfurt", "code": "FRA"}, {"name": "New York", "code": "NYK"}, {"name": "Toronto", "code": "TOR"}, {"name": "Paris", "code": "PAR"}, 
         {"name": "Los Angeles", "code": "LOS"} ],
-        "cabinClass": ["Economy", "Business Economy", "Business"]
+        "cabinClass": ["Economy", "Business Economy", "Business"],
+        "country": [{"name": "Germany", "code": "GER"}, {"name": "United Kingdom", "code": "UK"}, {"name": "France", "code": "FR"}]
      },
      {
         "id": 2,
@@ -27,7 +28,8 @@
         "destinations": [{"name": "Amsterdan", "code": "AMS"}, {"name": "Berlin", "code": "BER"}, {"name": "Lagos", "code": "LAG"}, {"name": "Munich", "code": "MUN"}, {"name": "London", "code": "LON"}, 
         {"name": "Frankfurt", "code": "FRA"}, {"name": "New York", "code": "NYK"}, {"name": "Toronto", "code": "TOR"}, {"name": "Paris", "code": "PAR"}, 
         {"name": "Los Angeles", "code": "LOS"} ],
-        "cabinClass": ["Economy", "Business Economy", "Business"]
+        "cabinClass": ["Economy", "Business Economy", "Business"],
+        "country": [{"name": "Germany", "code": "GER"}, {"name": "United Kingdom", "code": "UK"}, {"name": "France", "code": "FR"}]
      },
      {
         "id": 3,
@@ -42,7 +44,8 @@
         "destinations": [{"name": "Dublin", "code": "DUB"}, {"name": "Belfast", "code": "BEL"}, {"name": "Berlin", "code": "BER"}, {"name": "Lagos", "code": "LAG"}, {"name": "Munich", "code": "MUN"}, {"name": "London", "code": "LON"}, 
         {"name": "Frankfurt", "code": "FRA"}, {"name": "New York", "code": "NYK"}, {"name": "Toronto", "code": "TOR"}, {"name": "Paris", "code": "PAR"}, 
         {"name": "Los Angeles", "code": "LOS"} ],
-        "cabinClass": ["Economy"]
+        "cabinClass": ["Economy"],
+        "country": [{"name": "Germany", "code": "GER"}, {"name": "United Kingdom", "code": "UK"}, {"name": "France", "code": "FR"}]
      },
      {
         "id": 4,
@@ -57,7 +60,8 @@
         "destinations": [{"name": "Dublin", "code": "DUB"}, {"name": "Belfast", "code": "BEL"}, {"name": "Berlin", "code": "BER"}, {"name": "Lagos", "code": "LAG"}, {"name": "Munich", "code": "MUN"}, {"name": "London", "code": "LON"}, 
         {"name": "Frankfurt", "code": "FRA"}, {"name": "New York", "code": "NYK"}, {"name": "Toronto", "code": "TOR"}, {"name": "Paris", "code": "PAR"}, 
         {"name": "Los Angeles", "code": "LOS"} ],
-        "cabinClass": ["Economy"]
+        "cabinClass": ["Economy"],
+        "country": [{"name": "Germany", "code": "GER"}, {"name": "United Kingdom", "code": "UK"}, {"name": "France", "code": "FR"}]
      },
      {
         "id": 5,
@@ -72,7 +76,8 @@
         "destinations": [{"name": "Washington", "code": "WAS"}, {"name": "Hamburg", "code": "HAM"}, {"name": "Berlin", "code": "BER"}, {"name": "Lagos", "code": "LAG"}, {"name": "Munich", "code": "MUN"}, {"name": "London", "code": "LON"}, 
         {"name": "Frankfurt", "code": "FRA"}, {"name": "New York", "code": "NYK"}, {"name": "Toronto", "code": "TOR"}, {"name": "Paris", "code": "PAR"}, 
         {"name": "Los Angeles", "code": "LOS"} ],
-        "cabinClass": ["Economy", "Business Economy", "Business"]
+        "cabinClass": ["Economy", "Business Economy", "Business"],
+        "country": [{"name": "Germany", "code": "GER"}, {"name": "United Kingdom", "code": "UK"}, {"name": "France", "code": "FR"}]
      }
     ]
   }
